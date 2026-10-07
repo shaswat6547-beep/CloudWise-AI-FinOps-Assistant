@@ -1,0 +1,8 @@
+resource_id,service,resource_type,cost,cpu_usage,resource_status
+EC2-001,AWS EC2,Virtual Machine,120.50,5,active
+EC2-002,AWS EC2,Virtual Machine,250.00,65,active
+EC2-003,AWS EC2,Virtual Machine,95.20,7,active
+VOL-001,AWS EBS,Storage Volume,40.00,0,unattached
+RDS-001,AWS RDS,Database,180.75,72,active
+S3-001,AWS S3,Object Storage,55.30,20,active
+EC2-004,AWS EC2,Virtual Machine,210.40,8,active
