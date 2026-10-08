@@ -456,7 +456,7 @@ CloudWise helps users answer questions such as:
 
 CloudWise provides analytical insights and estimated potential savings based on the uploaded billing and utilization data.
 
-Recommendations and potential savings are **estimates only**. Actual cloud costs and savings may vary depending on workload requirements, pricing models, usage patterns, and cloud-provider policies.
+Recommendations and potential savings are **estimates only**. ..Actual cloud costs and savings may vary depending on workload requirements, pricing models, usage patterns, and cloud-provider policies.
 
 ---
 
